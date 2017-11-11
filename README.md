@@ -9,4 +9,9 @@ https://github.com/joorgepenas/BuscadorInmueble.git
 
 https://github.com/tutu102/Trazabilidad.git
 
+https://github.com/JoshelynGonzales/Proyecto.git
+
+https://github.com/shir1594/Patisserie.git
+
+
 
